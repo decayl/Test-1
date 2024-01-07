@@ -1,19 +1,6 @@
 {
   "publishedAt": "28th Jan 2022",
   "title": "Activity 1 - The Basics of HTML:",
-  "content": "<h1> The Basics of HTML </h1>
-  <HR>
-  <h1> This is an H1 Heading </h1>
-  <h2> This is an H2 Heading </h2>      
-  <h3> This is an H3 Heading </h3>
-  <h4> This is an H4 Heading </h4>
-  <h5> This is an H5 Heading </h5>
-  <h6> This is an H2 Heading </h6>
-<BR>
-<b> This text is bold </b>
-<i> This text is italized </i>
-<u> This text is underlined </u> 
-<BR>
-<marquee> This text is moving from side to side </marquee>"
+  "content": "<h1> The Basics of HTML </h1><HR><h1> This is an H1 Heading </h1><h2> This is an H2 Heading </h2>      <h3> This is an H3 Heading </h3><h4> This is an H4 Heading </h4><h5> This is an H5 Heading </h5><h6> This is an H2 Heading </h6><BR><b> This text is bold </b><i> This text is italized </i><u> This text is underlined </u> <BR><marquee> This text is moving from side to side </marquee>"
   "featuredImage": "/images/uploads/pakistani-chicken-biryani.jpg"
 }
